@@ -1,0 +1,17 @@
+abstract: Using real-time measurements of preceding urge phenomena combined with high-density
+  EEG recordings and thalamic local field potentials, the role of motor control on
+  impulsive urges to move (and vice-versa) will be analysed. Involvement of thalamo-cortical
+  loops in gating of sensorimotor interaction and initiation of motor action is scrutinised
+  by modulation through deep brain stimulation and analyses of structural connectomics.
+  By characterising the spatial and temporal dynamics of urged and cued motor initiation,
+  this project aims at deciphering the neural processes underlying impulsive motor
+  behaviour and sensorimotor gating.
+authors:
+- {family-names: Visser-Vandewalle, given-names: Veerle}
+- {family-names: Baldermann, given-names: Juan Carlos}
+- {family-names: Wehmeyer, given-names: Laura}
+- {family-names: Pjontek, given-names: Rastislav}
+- {family-names: Schüller, given-names: Thomas}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'C07: Neural networks underlying motor tic formation and suppression'
